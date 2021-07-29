@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am soon joining the group of [Brigitte Galliot](https://genev.unige.ch/research/laboratory/Brigitte-Galliot) at the [University of Geneva](https://genev.unige.ch/) in Switzerland as a [Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) postdoctoral scholar from September 2021 to August 2022, where I will be studying head formation and maintenance in *Hydra*.
 
-**I am currently looking for postdoc opportunities in theoretical and experimental marine developmental biology**, preferably involving field work and use of simple & low-cost experiments/technologies, from late 2022 or early 2023.
+**I am actively looking for postdoc opportunities in theoretical and experimental marine developmental biology**, preferably involving field work and use of simple & low-cost experiments/technologies, from late 2022 or early 2023.
 
 ## Current research
 
