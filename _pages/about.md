@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am actively looking for postdoc opportunities in theoretical and experimental marine developmental biology**, preferably involving field work and use of simple & low-cost experiments/technologies, from late 2022 or early 2023.
+**I am actively looking for research opportunities in theoretical and experimental marine developmental biology**, preferably involving field work and use of simple & low-cost experiments/technologies, from late 2022 or early 2023.
 
 ## Recent research
 
