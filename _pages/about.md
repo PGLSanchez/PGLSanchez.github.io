@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am soon joining the group of [Brigitte Galliot](https://genev.unige.ch/research/laboratory/Brigitte-Galliot) at the [University of Geneva](https://genev.unige.ch/) in Switzerland as a [Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) postdoctoral scholar from September 2021 to August 2022, where I will be studying head formation and maintenance in *Hydra*.
 
 **I am actively looking for postdoc opportunities in theoretical and experimental marine developmental biology**, preferably involving field work and use of simple & low-cost experiments/technologies, from late 2022 or early 2023.
 
-## Current research
+## Recent research
 
-I am a bridging postdoc in [Alexander Aulehla's lab](https://www.embl.de/research/units/dev_biology/aulehla/) at the [European Molecular Biology Laboratory](https://www.embl.org/about/) (EMBL) in Heidelberg, Germany. My current research melds developmental biology and dynamical systems theory to understand how synchronized signaling oscillations confer spatiotemporal cues for tissue patterning in vertebrate embryos. In particular, I use synchronization theory (via microfluidics-based entrainment) to predictably control the oscillations in embryos during the formation of their somites, the precursors of vertebrae.
+I am a Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) postdoctoral scholar (September 2021 to August 2022) with Brigitte Galliot in the [Laboratory of Regeneration and Adult Neurogenesis](https://genev.unige.ch/research/laboratory/Brigitte-Galliot) at the [University of Geneva](https://genev.unige.ch/) in Switzerland, where I am studying head formation and maintenance in *Hydra*.
+
+Formerly, I was a bridging postdoc in [Alexander Aulehla's lab](https://www.embl.de/research/units/dev_biology/aulehla/) at the [European Molecular Biology Laboratory](https://www.embl.org/about/) (EMBL) in Heidelberg, Germany, where I melded developmental biology and dynamical systems theory to understand how synchronized signaling oscillations confer spatiotemporal cues for tissue patterning in vertebrate embryos. In particular, I used synchronization theory (via microfluidics-based entrainment) to predictably control the oscillations in embryos during the formation of their somites, the precursors of vertebrae.
 
 ## Broad interests
 
@@ -39,4 +40,4 @@ My scientific journey has been serendipitous. And I am constantly in awe how I a
 
 As a Filipino and somebody who identify as a member of the LGBTQIA+ community, I am also very passionate about "endless forms" of diversity, equity, and inclusion. I am a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Stefano Vianello, my partner, and I am a signatory of [DORA](https://sfdora.org/read/).
 
-Please feel free to check the [CV](https://pglsanchez.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://pglsanchez.github.io/files/PGLSanchez_CV_20210622.pdf).
+Please feel free to check the [CV](https://pglsanchez.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://pglsanchez.github.io/files/PGLSanchez_CV_20211003.pdf).
