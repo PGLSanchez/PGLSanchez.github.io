@@ -12,7 +12,7 @@ redirect_from:
 
 ## Recent research
 
-I am a Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) postdoctoral scholar (September 2021 to August 2022) with Brigitte Galliot in the [Laboratory of Regeneration and Adult Neurogenesis](https://genev.unige.ch/research/laboratory/Brigitte-Galliot) at the [University of Geneva](https://genev.unige.ch/) in Switzerland, where I am studying head formation and maintenance in *Hydra*.
+I am a [Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) postdoctoral scholar (September 2021 to August 2022) with Brigitte Galliot in the [Laboratory of Regeneration and Adult Neurogenesis](https://genev.unige.ch/research/laboratory/Brigitte-Galliot) at the [University of Geneva](https://genev.unige.ch/) in Switzerland, where I am studying head formation and maintenance in *Hydra*.
 
 Formerly, I was a bridging postdoc in [Alexander Aulehla's lab](https://www.embl.de/research/units/dev_biology/aulehla/) at the [European Molecular Biology Laboratory](https://www.embl.org/about/) (EMBL) in Heidelberg, Germany, where I melded developmental biology and dynamical systems theory to understand how synchronized signaling oscillations confer spatiotemporal cues for tissue patterning in vertebrate embryos. In particular, I used synchronization theory (via microfluidics-based entrainment) to predictably control the oscillations in embryos during the formation of their somites, the precursors of vertebrae.
 
