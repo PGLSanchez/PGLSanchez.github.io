@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter poljiology
+  username               : #&twitter poljiology
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Paul Gerald Layague Sanchez"
   avatar           : "PGLS.png"
-  bio              : "Filipino postdoc studying head formation and maintenance in Hydra"
-  location         : "Geneva, Switzerland"
-  employer         : # "European Molecular Biology Laboratory (EMBL)"
+  bio              : "Filipino scholar currently studying evolution and development of diverse morphological phenotypes in aquatic organisms"
+  location         : "Yilan County, Taiwan"
+  employer         : "中央研究院所臨海研究站"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "pglsanchez@gmail.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "poljiology"
+  twitter          : #"poljiology"
   vine             :
   weibo            :
   xing             :

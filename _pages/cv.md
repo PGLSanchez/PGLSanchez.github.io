@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/PGLSanchez_CV_20211230.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/files/PGLSanchez_CV_20211230.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/PGLSanchez_CV_20211230.pdf">Download PDF</a>.</p>
+<object data="/files/PGLSanchez_CV_20230208.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/files/PGLSanchez_CV_20230208.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/PGLSanchez_CV_20230208.pdf">Download PDF</a>.</p>
     </embed>
 </object>
