@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am actively looking for research collaborations in the field of evolution and development of aquatic organisms, specifically of those in the Asia-Pacific region. If you are interested and if our interests overlap, please reach out!
+I am actively looking for research collaborations in the field of evolution and development of aquatic organisms, specifically of those in the Asia-Pacific region. If our interests overlap, please reach out!
 
 ## Recent research
 
