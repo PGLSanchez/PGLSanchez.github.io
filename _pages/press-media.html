@@ -1,0 +1,64 @@
+---
+layout: archive
+title: "Press and Media"
+permalink: /press-media/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style type="text/css">
+ .tab { margin-left: 5%; }
+</style>
+
+<b>Images</b><br/>
+<br/>
+<img src="https://PGLSanchez.github.io/files/press-media-mouse-01.jpg"><img>
+Light up (<a href="https://thenode.biologists.com/calendar-competition-and-the-winners-are/photo/">link</a>)<br/>
+<i>E14.5 mouse embryo labeled for cartilage (Sox9-GFP, in biop-SpringGreen) and vasculature (highlighter ink circulated by injection in a blood vessel, in mpl-magma). Vasculature “lights up” the embryo, including within the developing bones of the limbs. Image taken using a microscope kindly sponsored by Zeiss during the 2018 Embryology Course at the Marine Biological Laboratory in Woods Hole, MA. Featured in the 2020 Calendar of The Node, community site of The Company of Biologists.</i><br/>
+<br/>
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 4</div>
+    <img src="https://PGLSanchez.github.io/files/press-media-chick-01.jpeg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 4</div>
+    <img src="https://PGLSanchez.github.io/files/press-media-chick-02.jpeg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 4</div>
+    <img src="https://PGLSanchez.github.io/files/press-media-chick-03.jpeg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 4</div>
+    <img src="https://PGLSanchez.github.io/files/press-media-chick-04.jpeg" style="width:100%">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+(Confidently) backboned with a heart (<a href="https://twitter.com/UPBCS/status/1321391259940872196?s=20">link</a>)<br/>
+<i>Heart and precursors of vertebrae (in magenta, stained with antibody against the myosin heavy chain) in a chick embryo. Nuclei (stained with DAPI) are shown in gray. Image taken using a microscope kindly sponsored by Zeiss during the 2018 Embryology Course at the Marine Biological Laboratory in Woods Hole, MA. Featured in The Aurum, newsletter of the University of the Philippines Biochemistry Society.</i><br/>
+<br/>
+<br/>
+<b>Videos</b>
+
+
+{% for post in site.outreach reversed %}
+  {% include archive-single.html %}
+{% endfor %}
