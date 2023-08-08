@@ -10,6 +10,8 @@ redirect_from:
 
 I am actively looking for research collaborations in the field of evolution and development of aquatic organisms, specifically of those in the Asia-Pacific region. If our interests overlap, please reach out!
 
+![Swimming in Lac Léman in Lausanne, Switzerland circa early August 2021](https://PGLSanchez.github.io/images/PGLS_LacLeman.png)
+
 ## Recent research
 
 I am currently a postdoctoral scholar with Kinya Ota in the [Laboratory of Aquatic Zoology](https://icob.sinica.edu.tw/Eng/Faculty/faculty_lab?id=aee5ef884f804bcf93dd9a587d255905), Marine Research Station, Institute of Cellular and Organismic Biology at [Academia Sinica](https://www.sinica.edu.tw/en/articles/12) in Yilan County, Taiwan, where I study the evolution and development of diverse morphological phenotypes in domesticated ornamental fish.
