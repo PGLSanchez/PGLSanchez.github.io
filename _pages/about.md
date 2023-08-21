@@ -10,11 +10,11 @@ redirect_from:
 
 I am actively looking for research collaborations in the field of evolution and development of aquatic organisms, specifically of those in the Asia-Pacific region. If our interests overlap, please reach out!
 
+![Presenting in the meeting of the EcoEvoDevo group of ICOB, Academia Sinica](https://PGLSanchez.github.io/images/PGLS_goldfish.jpeg)
+
 ## Recent research
 
 I am currently a postdoctoral scholar with Kinya Ota in the [Laboratory of Aquatic Zoology](https://icob.sinica.edu.tw/Eng/Faculty/faculty_lab?id=aee5ef884f804bcf93dd9a587d255905), Marine Research Station, Institute of Cellular and Organismic Biology at [Academia Sinica](https://www.sinica.edu.tw/en/articles/12) in Yilan County, Taiwan, where I study the evolution and development of diverse morphological phenotypes in domesticated ornamental fish.
-
-![Presenting in the internal meeting of the EcoEvoDevo group of ICOB, Academia Sinica](https://PGLSanchez.github.io/images/PGLS_goldfish.jpeg)
 
 
 I was a [Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) postdoctoral scholar (from September 2021 to August 2022) with Brigitte Galliot in the [Laboratory of Regeneration and Adult Neurogenesis](https://genev.unige.ch/research/laboratory/Brigitte-Galliot) at the [University of Geneva](https://genev.unige.ch/) in Geneva, Switzerland, where I studied head formation and maintenance in *Hydra*.
