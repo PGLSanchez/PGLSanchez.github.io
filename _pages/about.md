@@ -50,5 +50,3 @@ As a Filipino and somebody who identify as a member of the LGBTQIA+ community, I
 Please feel free to check the [CV](https://pglsanchez.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://pglsanchez.github.io/files/PGLSanchez_CV_20230208.pdf).
 
 ![Swimming in Lac Léman in Lausanne, Switzerland circa early August 2021](https://PGLSanchez.github.io/images/PGLS_LacLeman.png)
-
-![](https://komarev.com/ghpvc/?username=pglsanchez&color=22a884ff&flat-square&label=PAGE+VIEWS)
