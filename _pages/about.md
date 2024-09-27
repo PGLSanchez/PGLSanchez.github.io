@@ -24,6 +24,8 @@ I was a [Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/edu
 
 Formerly, I was a bridging postdoc in [Alexander Aulehla's lab](https://www.embl.de/research/units/dev_biology/aulehla/) at the [European Molecular Biology Laboratory](https://www.embl.org/about/) (EMBL) in Heidelberg, Germany, where I melded developmental biology and dynamical systems theory to understand how synchronized signaling oscillations confer spatiotemporal cues for tissue patterning in vertebrate embryos. In particular, I used synchronization theory (via microfluidics-based entrainment) to predictably control the oscillations in embryos during the formation of their somites, the precursors of vertebrae.
 
+For more detailed information, please visit the [research](https://pglsanchez.github.io/research/) tab.
+
 ## Broad interests
 
 **_Evolution has solved all the problems we're interested in, we just have to find those organisms and figure out how to ask them how they did it_** - [Nipam Patel](https://dev.biologists.org/content/142/24/4189)
