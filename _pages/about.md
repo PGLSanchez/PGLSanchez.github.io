@@ -16,7 +16,9 @@ I am actively looking for research collaborations in the field of evolution and 
 
 I am currently a postdoctoral scholar with Kinya Ota in the [Laboratory of Aquatic Zoology](https://icob.sinica.edu.tw/Eng/Faculty/faculty_lab?id=aee5ef884f804bcf93dd9a587d255905), Marine Research Station, Institute of Cellular and Organismic Biology at [Academia Sinica](https://www.sinica.edu.tw/en/articles/12) in Yilan County, Taiwan, where I study the evolution and development of diverse morphological phenotypes in domesticated ornamental fish.
 
-![Rhythmic contractions of the yolk in goldfish eggs and embryos](https://PGLSanchez.github.io/files/research-GoldfishYolkContractions.gif)
+<p align="center">
+  <img src="https://PGLSanchez.github.io/files/research-GoldfishYolkContractions.gif" style="max-width:100%"/>
+</p>
 
 I was a [Swiss Government Excellence](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html) postdoctoral scholar (from September 2021 to August 2022) with Brigitte Galliot in the [Laboratory of Regeneration and Adult Neurogenesis](https://genev.unige.ch/research/laboratory/Brigitte-Galliot) at the [University of Geneva](https://genev.unige.ch/) in Geneva, Switzerland, where I studied head formation and maintenance in *Hydra*.
 
