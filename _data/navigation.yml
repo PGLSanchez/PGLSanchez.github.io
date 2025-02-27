@@ -9,9 +9,6 @@ main:
   - title: "Press and Media"
     url: /press-media/ 
 
-  - title: "Photos"
-    url: /photos/  
-
   - title: "CV"
     url: /cv/
 
